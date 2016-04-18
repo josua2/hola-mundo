@@ -1,2 +1,2 @@
-# hola-mundo
-aprendizaje
+ hola-mundo
+aprendizaje desde 0
